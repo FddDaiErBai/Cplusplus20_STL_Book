@@ -361,3 +361,19 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Visual Studio
+.vs/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# 编译产物
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
